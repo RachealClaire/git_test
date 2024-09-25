@@ -1,5 +1,5 @@
 # git_test
 
-Am try to learn how to use github
+I am trying to learn how to use github
 
-thanks to Odin
+Thanks to Odin
