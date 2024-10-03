@@ -1,5 +1,5 @@
-# git_test
+#git test
 
-Am try to learn how to use github
+A website For Home and Away nursery and primary school
 
-thanks to Odin
+built on Html, css and Javscript
