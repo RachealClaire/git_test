@@ -1,0 +1,25 @@
+* {
+    color: green;
+}
+
+div {
+    color: white;
+}
+
+alert-text {
+    color: red;
+}
+
+#title {
+    background-color: red;
+}
+
+.read,
+.unread {
+  color: white;
+  background-color: black;
+}
+
+
+
+  
